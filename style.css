@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  #calculator {
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  #result {
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+
+  .btn {
+    margin: 5px;
+  }
